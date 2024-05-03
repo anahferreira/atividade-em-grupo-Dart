@@ -1,4 +1,4 @@
-//Uma coleção de elementos únicos, sem ordenação
+//Set: Um conjunto é uma coleção de elementos únicos, sem ordem definida. Ele não permite elementos duplicados.
 
 void main() {
   // Criando um conjunto de strings
